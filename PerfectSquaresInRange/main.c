@@ -3,7 +3,7 @@
 #include <math.h>
 void PerfectSquares(int num){
 int b=0;
-int *arr=(int *)malloc(20*sizeof(int));
+int *arr=(int *)malloc(10*sizeof(int));
     for(int i=0;i<num;i++){
         int a=sqrt(i);
         if(i==a*a)
