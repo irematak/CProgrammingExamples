@@ -11,7 +11,7 @@ for(i=0;i<strlen(ch_arr);i++){
     if(letter==ch_arr[i])
     arr[count++]=i;
 }
-printf("This text has %d '%c'character.\n",count,letter);
+printf("The number of times %c appears is %d.\n",letter,count);
 for(c=0;c<count;c++)
 printf("%d. index of '%c'character : %d\n",c+1,letter,arr[c]);
 return 0;
