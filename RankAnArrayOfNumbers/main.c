@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int main()
-
 { int num,temp;
     printf("Enter the size of the array:");scanf("%d",&num);
     int *arr=(int *)malloc(num*sizeof(int));
