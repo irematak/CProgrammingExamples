@@ -1,2 +1,11 @@
-* Armstrong number is a number that is equal to the sum of cubes of its digits.  
-* For example 0, 1, 153, 370, 371 and 407 are the Armstrong numbers.
+## ARMSTRONG NUMBER  
+
+Armstrong number is a number that is equal to the sum of cubes of its digits.    
+
+* **Example**  
+
+> **Input**  
+> Enter an integer: 153  
+> **Output**  
+> 153 is an Armstrong number
+
