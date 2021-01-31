@@ -5,4 +5,4 @@
 > Input  
 > Input number : 5678  
 > Output   
-> Output number : five thousand six hundred seventy-eight  
+> five thousand six hundred seventy-eight  
