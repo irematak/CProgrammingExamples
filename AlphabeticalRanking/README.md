@@ -1,4 +1,4 @@
-## ALPHABETİCAL RANKİNG  
+## ALPHABETICAL RANKING  
 
 * **Example** 
 
