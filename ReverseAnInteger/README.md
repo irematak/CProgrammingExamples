@@ -1,6 +1,6 @@
 ## REVERSE AN INTEGER
 
-*Example  
+* Example  
 
 > Input  
 > Enter an integer: 1578  
