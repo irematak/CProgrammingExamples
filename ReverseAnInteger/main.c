@@ -9,6 +9,6 @@ while(n!=0){
   rev=rev*10+remainder;
   n/=10;
 }
-printf("Reversed number= %d",rev);
+printf("Reversed number: %d",rev);
     return 0;
 }
