@@ -2,7 +2,7 @@
 
 * Example 
 
-> Input
+> Input  
 > Enter a number: 7  
 > Enter the number of columns: 2   
 > Enter the number of rows: 2    
