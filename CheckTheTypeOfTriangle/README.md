@@ -4,11 +4,11 @@
 **Isosceles Triangle**: If any of the two sides are equal, it is an Isosceles Triangle. a= b or a= c or b = c  
 **Scalene Triangle**: If none of the sides are equal, it is a Scalene Triangle. a != b != c  
 
-* **Example   
+* **Example**   
 
-> **Input   
+> **Input**     
 > Please Enter Three Sides of a Triangle : 60 50 40   
-> **Output   
+> **Output**    
 > This is a Scalene Triangle  
 
 
