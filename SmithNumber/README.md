@@ -1,6 +1,6 @@
 ## SMITH NUMBERS 
 
-Smith numbers are numbers such that the sum of the decimal digits of the integers that make up that number is the same as the sum of the decimal digits of its prime factors excluding 1.   
+A Smith number is a composite number whose sum of digits is equal to the sum of sums of digits of its prime factors.   
 
 * **Example**  
 
