@@ -1,6 +1,6 @@
 ## SMITH NUMBERS 
 
-A Smith number is a composite number whose sum of digits is equal to the sum of sums of digits of its prime factors.   
+Basically smith numbers are: Composite number the sum of whose digits is the sum of the digits of its prime factors   
 
 * **Example**  
 
