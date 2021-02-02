@@ -30,6 +30,6 @@ for(int y=0;y<strlen(ch_arr);y++){
     count=0;
 }
 for(int i=0;i<a;i++)
-    printf("There are %d --> %c times \n",arr[i],character[i]);
+    printf("The number of times %c appears is %d. \n",arr[i],character[i]);
     return 0;
 }
