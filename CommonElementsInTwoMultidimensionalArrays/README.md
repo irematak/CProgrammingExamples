@@ -11,9 +11,8 @@ The program uses the rand () function to fill the arrays with random numbers fro
 > Elements of the second array:    
   21  16  11   
   17  0   26    
-  20  37  38    
-  
- >31  26  28    
+  20  37  38     
+> 31  26  28    
   21  13  42    
   39  35  10    
 > The common elements in the two arrays are:  
