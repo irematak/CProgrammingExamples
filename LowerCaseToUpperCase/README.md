@@ -2,10 +2,10 @@
 
  All lowercase characters ASCII value is from 97 to 122 and if we subtract 32 in each lowercase character only then it will become uppercase character.    
  
- * **Example**  
+ * **Example**   
  
- > **Input**  
- > Enter a letter: k   
- > **Output**  
- > In Upper Case is: K  
+ > **Input**   
+ > Enter a lower-case letter: k    
+ > **Output**   
+ > Upper case letter is K    
  
