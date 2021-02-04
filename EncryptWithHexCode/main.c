@@ -11,7 +11,6 @@ printf("Enter the codes:");gets(codes);
 for(int i=0,j=strlen(codes)-1;i<strlen(codes),j>=0;i++,j--){
     codes2[i]=codes[j];
 }
-printf("%d",codes2[0]);
  for(int i=0;i<strlen(codes)-1;i+=2){
     for(int j=i;j<i+1;j++){
     if(codes2[j+1]=='a'||codes2[j+1]=='b'||codes2[j+1]=='c'||codes2[j+1]=='d'||codes2[j+1]=='e'||codes2[j+1]=='f'){
