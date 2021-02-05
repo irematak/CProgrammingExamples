@@ -36,7 +36,7 @@ if((n2==1||n2==2||n2==3||n2==4||n2==5||n2==6)){
 }
 
 int main(){
-int number,n1,n2,quotient,remainder;
+int number,n1,n2,quotient, remainder;
 printf("Enter the number:");scanf("%d",&number);
 if(number<16){
     ones(number);
