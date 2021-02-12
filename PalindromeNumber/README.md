@@ -1,4 +1,4 @@
-##CHECK IF A NUMBER IS PALINDROME OR NOT   
+## CHECK IF A NUMBER IS PALINDROME OR NOT   
 
 An integer is a palindrome if the reverse of that number is equal to the original number.   
 
