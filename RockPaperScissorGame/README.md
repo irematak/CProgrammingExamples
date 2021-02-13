@@ -33,7 +33,8 @@
 > Coumputer's turn        
 > Computer choose:2      
 >     
-> You got it!   
+> You got it!
+>                  
 > **Output** 
 >       
 > YOU:2 | COMPUTER:1              
