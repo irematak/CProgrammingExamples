@@ -23,7 +23,7 @@ for(int i=0;i<3;i++){
 }
 for(int i=0;i<a;i++){
         flag=0;
-    for(int j=i+1;j<a;j++){//sayilar listesi hepsinden bi tane
+    for(int j=i+1;j<a;j++){
         if(arr2[i]==arr2[j]){
             flag=1;
            continue;
