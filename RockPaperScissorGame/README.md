@@ -1,11 +1,13 @@
 ## Rock Paper Scissors Game     
 
-> **Input**          
+> **Input**   
+>      
 > Welcome To The Rock Paper Scissors Game  
 > 1-Rock         
   2-Paper        
   3-Scissors      
-> Pres 1 to 3            
+> Pres 1 to 3   
+>              
 > Round 1        
 > Player's turn:1     
 > You choose:1     
@@ -32,7 +34,8 @@
 > Computer choose:2      
 >     
 > You got it!   
-> **Output**           
+> **Output** 
+>       
 > YOU:2 | COMPUTER:1              
 > You win the game!           
 >
