@@ -2,7 +2,6 @@
 
 > **Input**          
 > Welcome To The Rock Paper Scissors Game  
-> ---------------------------------------- 
 > 1-Rock         
   2-Paper        
   3-Scissors      
@@ -34,8 +33,6 @@
 >     
 > You got it!   
 > **Output**           
-> YOU:2 | COMPUTER:1    
-> --------------------------          
-> You win the game!    
-> --------------------------       
+> YOU:2 | COMPUTER:1              
+> You win the game!           
 >
