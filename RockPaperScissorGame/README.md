@@ -6,7 +6,7 @@
 > 1-Rock         
   2-Paper        
   3-Scissors      
-> Pres 1 to 3   
+> Press 1 to 3   
 >              
 > Round 1        
 > Player's turn:1     
