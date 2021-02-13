@@ -12,7 +12,7 @@
 > Player's turn:1     
 > You choose:1     
 >      
-> Coumputer's turn      
+> Computer's turn      
 > Computer choose: 2     
 >       
 > Computer got it!      
@@ -21,7 +21,7 @@
 > Player's turn:2     
 > You choose:2      
 >        
-> Coumputer's turn        
+> Computer's turn        
 > Computer choose: 1      
 >       
 > You got it!     
@@ -30,7 +30,7 @@
 > Player's turn:3      
 > You choose:3     
 >     
-> Coumputer's turn        
+> Computer's turn        
 > Computer choose:2      
 >     
 > You got it!
