@@ -12,7 +12,7 @@ If there exist multiple numbers, print the smallest one.
 > Number of distinct Prime Factors of 5 is 1.     
 > Number of distinct Prime Factors of 6 is 2.         
 > Number of distinct Prime Factors of 7 is 1.       
-> Number of distinct Prime Factors of 8 is 2.        
+> Number of distinct Prime Factors of 8 is 1.        
 > Number of distinct Prime Factors of 9 is 1.      
 > Number of distinct Prime Factors of 10 is 2.     
 > The number 6 has the maximum number of distinct prime factors.      
