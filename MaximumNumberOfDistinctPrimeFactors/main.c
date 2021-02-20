@@ -5,7 +5,7 @@ int a,b,c=0,e=0,count=0,d=0,pos;
 int *arr=(int)malloc(1000*sizeof(int));
 int *arr2=(int)malloc(1000*sizeof(int));
 int *arr3=(int)malloc(1000*sizeof(int));
-printf("Enter a and b:");scanf("%d %d",&a,&b);
+printf("Enter the range (a,b) :");scanf("%d %d",&a,&b);
 for(int i=a;i<=b;i++){
     arr3[d++]=i;
 }
