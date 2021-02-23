@@ -18,7 +18,7 @@ for(int i=0;i<num;i++)
     difference+=pow((arr[i]-mean),2);
 float variance=difference/num;
 printf("Variance:%.2f\n",variance);
-float standart_deviation=sqrt(variance);
-printf("Strandart deviation:%.2f\n",standart_deviation);
+float standard_deviation=sqrt(variance);
+printf("Strandard deviation:%.2f\n",standart_deviation);
 return 0;
 }
