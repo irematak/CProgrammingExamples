@@ -3,7 +3,7 @@
 * **Example**  
 
 > **Input**    
-> Enter a string: h4e- ll2o.
+> Enter a string: h4e- ll2o.      
 > **Output**  
 > Number of Alphabets in the string is : 5   
 > Number of Digits in the string is : 2   
