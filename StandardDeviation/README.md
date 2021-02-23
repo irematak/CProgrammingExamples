@@ -7,7 +7,7 @@
 > Enter the values: 34 88 32 12 10    
 > **Output**   
 > Mean: 35.20   
-> Variance: 794.6    
+> Variance: 794.56    
 > Standard Deviation: 28.19     
  
 
