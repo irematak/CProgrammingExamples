@@ -3,7 +3,7 @@
 * **Example**     
 
 > **Input**    
-> Enter a string: *he-^#l*lo3        
+> Enter a string: h#e6l/l--o3        
 > **Output**     
 > Output string: hello     
 
